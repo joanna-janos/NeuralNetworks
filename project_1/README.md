@@ -1,0 +1,1 @@
+Please, place train_data.csv, train_labels.csv and test_data.csv from https://www.kaggle.com/c/ujnn2019-1/data into "data" directory before running code in project_1.ipynb
