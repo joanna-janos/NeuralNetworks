@@ -1,3 +1,23 @@
+# Datasets
+project_2/first_approach/data/
+project_2/first_approach/model/balanced_data/data/
+project_2/first_approach/test/
+project_2/first_approach/train/
+project_2/second_approach/data/
+project_2/second_approach/test/
+project_2/second_approach/train/
+project_2/third_approach/test/
+project_2/third_approach/train/
+project_3/data/
+
+# Models
+project_2/first_approach/saved_model/model_kaggle/
+
+# Submissions
+project_2/first_approach/submission/submission_kaggle/
+project_2/third_approach/submission_kaggle/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
