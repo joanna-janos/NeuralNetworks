@@ -4,7 +4,8 @@
 All notebooks from course can be found [here](https://github.com/gmum/nn2019). \
 **Note**: Descriptions in notebooks are in polish language (except kaggle-like projects)
 
-Content
+
+Content:
 - Assignments
   1. Logistic regression in NumPy and PyTorch
   2. Multi-layered network
