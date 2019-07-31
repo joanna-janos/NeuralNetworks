@@ -1,5 +1,5 @@
 # neural-networks-2019
-**Assignments and projects for neural network course conducted in 2019 at Jagiellonian University.**
+**Assignments and projects for neural networks course conducted in 2019 at Jagiellonian University.**
 
 All notebooks from course can be found [here](https://github.com/gmum/nn2019). \
 **Note**: Descriptions in notebooks are in polish language (except kaggle-like projects)
