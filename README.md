@@ -4,11 +4,10 @@
     <a><img alt="YOLOv3 model" src="https://img.shields.io/badge/python-3.7-blue.svg"></a>
 </p>
 
-:pushpin: **Assignments and projects for `Neural networks` course conducted in 2019 at Jagiellonian University.**
+<br>
+
+:mortar_board: **Assignments and projects for "Neural networks" course conducted in 2019 at Jagiellonian University.** \
 All notebooks from course can be found [here](https://github.com/gmum/nn2019).
-
-
-:grey_exclamation: **Note**: Descriptions in notebooks are in polish language (except kaggle-like projects)
 
 
 <h2>:file_folder: Content:</h2>
@@ -25,3 +24,6 @@ All notebooks from course can be found [here](https://github.com/gmum/nn2019).
   1. MLP - [overview](https://www.kaggle.com/c/ujnn2019-1/overview)
   1. Predicting the probability of bird existence in given second of recording - [overview](https://www.kaggle.com/c/ujnn2019-2/overview)
   1. Image denoising - [overview](https://www.kaggle.com/c/ujnn2019-3/overview)
+
+
+:grey_exclamation: Descriptions are in polish language (except kaggle-like projects)
