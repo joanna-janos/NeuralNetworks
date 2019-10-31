@@ -25,5 +25,6 @@ All notebooks from course can be found [here](https://github.com/gmum/nn2019).
   - Predicting the probability of bird existence in given second of recording - [overview](https://www.kaggle.com/c/ujnn2019-2/overview)
   - Image denoising - [overview](https://www.kaggle.com/c/ujnn2019-3/overview)
 
+<br>
 
 :grey_exclamation: Descriptions are in polish language (except kaggle-like projects)
