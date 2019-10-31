@@ -13,17 +13,17 @@ All notebooks from course can be found [here](https://github.com/gmum/nn2019).
 <h2>:file_folder: Content:</h2>
 
 - Assignments
-  1. Logistic regression in NumPy and PyTorch
-  1. Multi-layered network
-  1. Convolution and max pooling
-  1. Deep convolutional neural networks (ResNet & SqueezeNet)
-  1. RNN and LSTM
-  1. Vanilla autoencoder
-  1. Variational autoencoder
+  - Logistic regression in NumPy and PyTorch
+  - Multi-layered network
+  - Convolution and max pooling
+  - Deep convolutional neural networks (ResNet & SqueezeNet)
+  - RNN and LSTM
+  - Vanilla autoencoder
+  - Variational autoencoder
 - Kaggle-like projects
-  1. MLP - [overview](https://www.kaggle.com/c/ujnn2019-1/overview)
-  1. Predicting the probability of bird existence in given second of recording - [overview](https://www.kaggle.com/c/ujnn2019-2/overview)
-  1. Image denoising - [overview](https://www.kaggle.com/c/ujnn2019-3/overview)
+  - MLP - [overview](https://www.kaggle.com/c/ujnn2019-1/overview)
+  - Predicting the probability of bird existence in given second of recording - [overview](https://www.kaggle.com/c/ujnn2019-2/overview)
+  - Image denoising - [overview](https://www.kaggle.com/c/ujnn2019-3/overview)
 
 
 :grey_exclamation: Descriptions are in polish language (except kaggle-like projects)
